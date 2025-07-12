@@ -82,11 +82,7 @@ Optional modules:
 
 ## 📸 Sneak Peek
 
-<p align="center">
-  <img src="./screenshots/ui-glimpse.png" alt="PokeGenius UI Preview" width="600" />
-</p>
-
-(Interface fully custom-designed, no template used.)
+look below 💫🪄
 
 ---
 
