@@ -93,7 +93,11 @@ look below 💫🪄
 For technical demo, academic collaboration, or invitations to hackathons/conferences:
 
 📩 **Email:** projects.aymanbouaziz@gmail.com  
+
+
 🌐 **Portfolio:** https://aymanbouaziz-dev.com (COMING SOON...)
+
+
 📘 **LinkedIn:** https://www.linkedin.com/in/ayman-bouaziz-7ab181349
 
 ---
