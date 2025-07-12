@@ -1,4 +1,4 @@
-# 🧠 PokeGenius – Intelligent Pokédex Platform
+# 🧠 PokeRelm-Data-Hunt – Intelligent Pokédex Platform
 
 > ⚠️ This is a private project developed with intense focus, deep research, and 100+ hours of custom engineering.  
 > 🧑‍💻 Code is not public — but the concept, features, and technical architecture are detailed below to showcase the level of innovation and mastery behind it.
